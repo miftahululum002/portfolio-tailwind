@@ -15,14 +15,14 @@ body {
   @apply w-[30px] h-[2px] my-2 block bg-dark dark:bg-white;
 }
 
-.humberger-active > span:nth-child(1) {
+.humburger-active > span:nth-child(1) {
   @apply rotate-45;
 }
-.humberger-active > span:nth-child(2) {
+.humburger-active > span:nth-child(2) {
   @apply scale-0;
 }
 
-.humberger-active > span:nth-child(3) {
+.humburger-active > span:nth-child(3) {
   @apply -rotate-45;
 }
 
